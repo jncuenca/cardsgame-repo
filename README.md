@@ -1,6 +1,12 @@
 # cardsgame-repo
-Repository for a simple Card Game
 
+## General info
+This project is a simple card game made completely in C.
+	
+## Setup
+To run this project, download it locally, then run in a IDE for C programming languaje:
+
+## Explanation
 Card battle
 The game consists of each player receiving 6 cards from a deck of 52 decks (decks French), you have 2 players, player 1 is the user and player 2 is the machine. 
 Before starting the battle, the user must organize his cards according to the criteria that seem convenient to him. Once the battle has started, the cards compete with each other.
@@ -25,3 +31,6 @@ Puntuaciones
 -	Los 3 mosqueteros y D'Artagnan: 8 puntos, el jugador posee 4 cartas de la misma denominación en caso de que el otro jugador tenga lo mismo se verifican cuales cartas son mayores siendo el cuarteto mayor 4 ases, le siguen 4 k, 4 q, 4j luego las demás denominaciones. No se evalúan batallas individuales si uno de los jugadores tiene las 4 cartas iguales y el otro no gana el que las posea automáticamente. 
 -	Batalla de héroes: 2 puntos. Las cartas tienen la misma denominación, ganan las cartas de color rojo en los turnos pares y las negras en las impares, las partidas se cuentan desde 1. En caso de ser del mismo color ninguno recibe puntos.
 Agregar una lógica al ordenamiento de cartas de la máquina.
+
+
+
